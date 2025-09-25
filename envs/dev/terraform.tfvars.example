@@ -1,0 +1,12 @@
+# SourceCommit
+repo_name = "devtools-repo"
+
+# SourceBuild
+sb_project_name       = "devtools-sbproj-dev"
+sb_branch             = "main"
+
+# 임시 ID (실무에선 data 소스로 조회 권장)
+sb_compute_id         = 1
+sb_os_id              = 1
+sb_runtime_id         = 1
+sb_runtime_version_id = 1
